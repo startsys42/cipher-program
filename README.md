@@ -33,8 +33,18 @@ luz magnetismo, gravedad. electrociad enrgia oscura cinetica termodinamica,...
 otras ciencias como astronmia biologia fisca quimica matematicas cuantico, fuerzas tiempo...  .... sonido
 
 --------------
+ayuda
+cargar fichero
+
+sintaxis propia ayuda
 algoritmos
-variables
-operaciones
+variables relaciones y variables almacenamiento y operaciones (multinivel)
 exportar ->imagenes, videos audio, texto, fichero,...libros
 importar
+hash
+calculadora
+diccionario grupos combinaciones...
+analizar, operaciones, crear, audio, video, imagen, documentos, diagramas
+patrones
+pruebas
+metodos raros originales

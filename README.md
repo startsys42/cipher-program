@@ -1,5 +1,24 @@
 # cipher-program
 
+- [ ] cragar datos fichero y operaciones
+- [ ] variables
+- [ ] diccionarios
+- [ ] reglas
+- [ ] cifrados clasicos
+- [ ] utf
+- [ ] hash
+- [ ] nuevos algoritmos
+- [ ] esteganografia
+
+
+
+
+
+
+
+
+
+--------------
 formatos ficheros(json, odt, pdf, csv, excel, powerpoint, yaml, tsv, xml,md ...)
 comprimri descomprimri cambair formatos,
 combinar operaciones
